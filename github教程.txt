@@ -1,0 +1,5 @@
+把文件拖到D盘文件夹内
+git add --all
+git commit -m "备注"
+git pull
+git push
