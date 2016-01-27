@@ -1,5 +1,13 @@
-把文件拖到D盘文件夹内
+把文件拖到D盘对应文件夹内
+
 git add --all
 git commit -m "备注"
 git pull
 git push
+
+html的手机适配：
+<meta name="format-detection" content="email=no">
+<meta name="format-detection" content="telephone=no">
+<meta content="address=no" name="format-detection"/>
+<meta name="apple-mobile-web-app-capable" content="no"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
