@@ -1,5 +1,6 @@
 把文件拖到D盘对应文件夹内
 
+D:    cd .\demo
 git add --all
 git commit -m "备注"
 git pull
