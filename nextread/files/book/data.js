@@ -1,0 +1,219 @@
+﻿$axure.loadCurrentPage({
+  "url":"book.html",
+  "generationDate":new Date(1459356909420.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3053f60aab4a4c5a9368c14b85a40c7c",
+    "type":"Axure:Page",
+    "name":"book",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0ac044ee10834b09a0466a2e05d75385",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"28px",
+            "fontWeight":"700",
+            "location":{
+              "x":6,
+              "y":8},
+            "size":{
+              "width":140,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d9316ae910c24fa48ae199ec72568c22",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"28px",
+                "fontWeight":"700",
+                "location":{
+                  "x":6,
+                  "y":8},
+                "size":{
+                  "width":140,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"995a18cab7bb4484b8b782641e1a7a8e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
+            "location":{
+              "x":156,
+              "y":6},
+            "size":{
+              "width":390,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"202b8a996c4849b0be7b729557cfb6b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
+                "location":{
+                  "x":156,
+                  "y":6},
+                "size":{
+                  "width":390,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/book/u2.png"}},
+{
+          "id":"00c87b306357406190853455e2a33c3e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "location":{
+              "x":545,
+              "y":6},
+            "size":{
+              "width":112,
+              "height":40},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"029a7a2627b24c64b03b772c93d3feb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "location":{
+                  "x":545,
+                  "y":6},
+                "size":{
+                  "width":112,
+                  "height":40},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/book/u4.png"}},
+{
+          "id":"2a6e6c686c5241398986ed89dab3bd7c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"18px",
+            "stateStyles":{
+              "hint":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1}}},
+            "location":{
+              "x":161,
+              "y":9},
+            "size":{
+              "width":349,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "placeholderText":"输入你喜欢的书名、作者"}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0ac044ee10834b09a0466a2e05d75385":{
+      "scriptId":"u0"},
+    "d9316ae910c24fa48ae199ec72568c22":{
+      "scriptId":"u1"},
+    "995a18cab7bb4484b8b782641e1a7a8e":{
+      "scriptId":"u2"},
+    "202b8a996c4849b0be7b729557cfb6b8":{
+      "scriptId":"u3"},
+    "00c87b306357406190853455e2a33c3e":{
+      "scriptId":"u4"},
+    "029a7a2627b24c64b03b772c93d3feb7":{
+      "scriptId":"u5"},
+    "2a6e6c686c5241398986ed89dab3bd7c":{
+      "scriptId":"u6"}}});
