@@ -602,3 +602,12 @@
   width:277px;
   word-wrap:break-word;
 }
+#u43 {
+  position:absolute;
+  left:1199px;
+  top:80px;
+  width:72px;
+  height:65px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
