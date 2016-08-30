@@ -1,12 +1,14 @@
-把文件拖到D盘对应文件夹内
-
-D:    cd .\demo
+把文件拖到D盘文件夹内\ 打开git shell
+D:
+cd .\demo
 git add --all
 git commit -m "备注"
 git pull
 git push
 
-html的手机适配：
+
+html手机适配：
+
 <meta name="format-detection" content="email=no">
 <meta name="format-detection" content="telephone=no">
 <meta content="address=no" name="format-detection"/>
